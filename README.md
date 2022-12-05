@@ -18,9 +18,9 @@ Calculate the date one year from the last date in data set.
 
 ![sqlalchemy4](https://user-images.githubusercontent.com/113717031/205528269-9dc3f1a9-09e5-4859-bf53-103f5f528d3c.png)
 
-![sqlalchemy5](https://user-images.githubusercontent.com/113717031/205528294-8979c68a-92e1-40bb-a9c9-fb0e5da9b9c1.png)
-
 ![precipitation_data](https://user-images.githubusercontent.com/113717031/205529097-47023fa1-d706-4219-9436-790f65a94b92.png)
+
+![sqlalchemy5](https://user-images.githubusercontent.com/113717031/205528294-8979c68a-92e1-40bb-a9c9-fb0e5da9b9c1.png)
 
 ![sqlalchemy6](https://user-images.githubusercontent.com/113717031/205528310-4639e8f9-102d-404e-8f1b-adae1de20db6.png)
 
@@ -29,7 +29,7 @@ Calculate the date one year from the last date in data set.
 ![sqlalchemy8](https://user-images.githubusercontent.com/113717031/205529168-47aa2075-65b5-4f18-821b-0bf6af57220a.png)
 
 Using the most active station id
-Query the last 12 months of temperature observation data for this station and plot the results as a histogram
+Query the last 12 months of temperature observation data for this station and plot the results as a histogram (bins=12)
 
 ![temperature_frequency](https://user-images.githubusercontent.com/113717031/205529197-b6001e97-74a4-4bb3-aa70-ff834d73cd3d.png)
 
